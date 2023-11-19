@@ -54,4 +54,4 @@ jobs:
           app-name: 'LocalBank'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DB7B04F37E6D45B59E00051ABC7DC8E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7064A381E4D54A47910C14E191688BCC }}
